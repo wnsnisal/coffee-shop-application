@@ -1,0 +1,14 @@
+header {
+    background-color: aqua;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    button {
+        background-color: $primaryBtn;
+        color: $textBtn;
+        &:hover {
+            background-color: red;
+        }
+    }
+}

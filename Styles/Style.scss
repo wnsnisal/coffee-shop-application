@@ -1,0 +1,6 @@
+@import "./variables";
+@import "./header";
+.contant button {
+    background-color: $primaryBtn;
+    color: $textBtn;
+}

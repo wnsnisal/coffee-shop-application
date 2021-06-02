@@ -1,0 +1,16 @@
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\bin\Debug\CoffeeShopAplication.exe.config
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\bin\Debug\CoffeeShopAplication.exe
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\bin\Debug\CoffeeShopAplication.pdb
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.csprojResolveAssemblyReference.cache
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.frmLogin.resources
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.frmAddProducts.resources
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.frmMain.resources
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.Properties.Resources.resources
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.csproj.GenerateResource.Cache
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.exe
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.pdb
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.frmViweProducts.resources
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.frmCoffeeShopPOS.resources
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.frmUser.resources
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.frmPayment.resources
+F:\partition 1\C# projects\CoffeeShopAplication\CoffeeShopAplication\CoffeeShopAplication\obj\Debug\CoffeeShopAplication.frmInvoiceDetails.resources
